@@ -38,6 +38,16 @@ android {
     }
 }
 
+//buildscript {
+//    // ...
+//    val sqlDelightVersion = "1.5.5"
+//
+//    dependencies {
+//        // ...
+//        classpath("com.squareup.sqldelight:gradle-plugin:$sqlDelightVersion")
+//    }
+//}
+
 dependencies {
     implementation(project(":shared"))
     implementation("androidx.compose.ui:ui:1.4.3")
