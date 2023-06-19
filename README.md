@@ -7,3 +7,6 @@
 - SQLDelight to generate Kotlin code from SQL queries and create a type-safe database API.
 
 continue here: https://kotlinlang.org/docs/multiplatform-mobile-ktor-sqldelight.html#implement-cache
+continue here: https://kotlinlang.org/docs/multiplatform-mobile-ktor-sqldelight.html#build-an-sdk
+
+branch https://github.com/kotlin-hands-on/kmm-networking-and-data-storage/tree/final
