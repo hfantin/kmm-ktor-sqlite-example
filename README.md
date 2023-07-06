@@ -8,5 +8,6 @@
 
 continue here: https://kotlinlang.org/docs/multiplatform-mobile-ktor-sqldelight.html#implement-cache
 continue here: https://kotlinlang.org/docs/multiplatform-mobile-ktor-sqldelight.html#build-an-sdk
+last https://kotlinlang.org/docs/multiplatform-mobile-ktor-sqldelight.html#create-the-ios-application
 
 branch https://github.com/kotlin-hands-on/kmm-networking-and-data-storage/tree/final
